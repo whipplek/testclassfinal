@@ -2,11 +2,10 @@ Package: testclassfinal
 Type: Package
 Title: Cat Names
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Kelsey Whipple
+Maintainer: Kelsey Whipple <kelsey.whipple@utexas.edu>
+Description: This package allows you to search a repository of popular cat names.
+License: license goes here
 Imports:
     tidyverse
 Encoding: UTF-8
